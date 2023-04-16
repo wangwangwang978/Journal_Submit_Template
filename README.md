@@ -1,3 +1,11 @@
+<style>
+pre {
+  overflow-y: auto;
+  max-width: 800px; 
+}
+</style>
+
+
 # 期刊投稿材料模板
 - [Author Agrement](#author-agrement)
 - [Cover Letter](#cover-letter)
