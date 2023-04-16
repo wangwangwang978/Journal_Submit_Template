@@ -1,10 +1,3 @@
-<style>
-pre {
-  overflow-y: auto;
-  max-width: 300px; 
-}
-</style>
-
 
 # 期刊投稿材料模板
 - [Author Agrement](#author-agrement)
@@ -20,7 +13,7 @@ pre {
 
 
 ## Author Agrement
-```text
+```html
 Dear Editor,
 We the undersigned declare that this manuscript entitled "Your paper title" is original, has not been published before and is not currently being considered for publication elsewhere.
 We would like to draw the attention of the Editor to the following publications of one or more of us that refer to aspects of the manuscript presently being submitted. Where relevant copies of such publications are attached.
