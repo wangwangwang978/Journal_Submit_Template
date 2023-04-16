@@ -1,7 +1,7 @@
 <style>
 pre {
   overflow-y: auto;
-  max-width: 800px; 
+  max-width: 300px; 
 }
 </style>
 
